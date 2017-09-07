@@ -1,0 +1,8 @@
+{ "followupEvent": {
+    "name": "HR_CLASSIFICATION_MANAGER",
+    "data": {
+       "name":"manager name here",
+       "email": "manager email here"
+      }
+    }
+  }
